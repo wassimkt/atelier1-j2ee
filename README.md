@@ -5,6 +5,7 @@
 4.	Créer une nouvelle classe Servlet "ParamServlet" qui permet de lire et d’afficher les paramètres de requête de l'URL http://localhost:8080/param?prenom=maysem&age=9. 
 
 Vérifier l’affichage des résultats avec les URL suivantes :
+
  a. http://localhost:8080/param?age=9&prenom=maysem
  
  b. http://localhost:8080/param?age=9
